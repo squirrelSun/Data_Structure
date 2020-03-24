@@ -1,5 +1,5 @@
 package Recursive;
-//递归实现斐波那契数列
+//閫掑綊瀹炵幇鏂愭尝閭ｅ鏁板垪
 public class TestFibonacci {
 	//1 1 2 3 5 8 13 ...
 	public static void main(String[] args) {
